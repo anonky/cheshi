@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>
+<![CDATA[
+http://pkg.hiapp.fun/ipa/298442a6624f49b3ad632a18ad8f9815.ipa?auth_key=1570873357-0-0-f287d6a6840a1e9e544ef20e482577ed
+]]>
+</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<integer>0</integer>
+<key>url</key>
+<string>
+<![CDATA[
+http://public.hiapp.net/icon/061ed3a73c574f9db5737d0e4abd0371.png
+]]>
+</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>
+<![CDATA[
+http://public.hiapp.net/icon/061ed3a73c574f9db5737d0e4abd0371.png
+]]>
+</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>
+<![CDATA[ com.kugou.kugou ]]>
+</string>
+<key>bundle-version</key>
+<string>
+<![CDATA[ 4.0.6 ]]>
+</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>
+<![CDATA[ 酷狗音乐 ]]>
+</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
